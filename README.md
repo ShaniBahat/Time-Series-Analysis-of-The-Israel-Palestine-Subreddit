@@ -7,14 +7,11 @@ By analyzing daily submissions from September 2023 to October 2024, we identify 
 
 The submissions classification is done using Hugging Face Transformers pipeline.
 
-!# submissions](assets/dailynumberofsubmissions.png) 
+![# submissions](dailynumberofsubmissions.png) 
 
 This chart shows the dramatic spike in community activity following October 7th, 2023, reaching nearly 500 daily submissions before gradually declining. The timeline clearly demonstrates how online communities respond immediately to major real-world events, with smaller spikes corresponding to subsequent developments in the conflict.
 
 A complete detailed process and evaluation of pro-Israeli and pro-Palestinian engagement patterns and global event impact can be found in the accompanying PDF file.
-
-
-![Concatenate 4 Board Position](assets/concatenate4.png) 
 
 #### Data
 - **Source**: r/IsraelPalestine subreddit
