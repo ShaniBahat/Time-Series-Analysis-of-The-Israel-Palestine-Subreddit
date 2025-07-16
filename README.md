@@ -15,6 +15,7 @@ A complete detailed process and evaluation of pro-Israeli and pro-Palestinian en
 
 #### Data
 - **Source**: r/IsraelPalestine subreddit
+- **Download Process**: Reddit API data extraction using the attached script
 - **Time Period**: September 2023 to October 2024 (14 months)
 - **Data Type**: Reddit submissions and comments
 
